@@ -1,4 +1,5 @@
 # 8icp
 NAME: SUKKA PRIYA BHANDHAVI
 ID: 700759005
-GITHUB LINK: 
+GITHUB LINK: https://github.com/PRIYA-SUKKA/8icp
+GITHUB VIDEO: https://github.com/PRIYA-SUKKA/8icp
